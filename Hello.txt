@@ -1,6 +1,6 @@
-print ("Hi all");
-print ("bye bye");
-print (home test)
+m_print ("Hi all");
+m_print ("bye bye");
+m_print (home test)
 send block
 test - error
 new line
