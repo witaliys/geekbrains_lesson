@@ -1,5 +1,6 @@
-s_print ("Hi all");
-s_print ("bye bye");
-s_print (home test)
-
+print ("Hi all");
+print ("bye bye");
+print (home test)
+izm in line_1
 izm in branch master
+izm posle comflikta
