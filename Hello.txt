@@ -1,7 +1,5 @@
 s_print ("Hi all");
 s_print ("bye bye");
 s_print (home test)
-send block
-test - error
-new line
-end line 2
+
+izm in branch master
