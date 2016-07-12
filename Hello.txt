@@ -1,7 +1,4 @@
-s_print ("Hi all");
-s_print ("bye bye");
-s_print (home test)
-send block
-test - error
-new line
-end line 2
+print ("Hi all");
+print ("bye bye");
+print (home test)
+izm in line_1
